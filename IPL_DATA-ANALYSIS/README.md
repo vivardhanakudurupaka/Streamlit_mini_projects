@@ -39,7 +39,5 @@ This project analyzes IPL match data and presents useful insights through an int
 IPL-Data-Analysis/
 │
 ├── app.py
-├── requirements.txt
 ├── README.md
-├── .gitignore
 └── ipl_matches.csv
